@@ -1,6 +1,7 @@
 # Task4_Sourabh
 
 🛍️ Sales Dashboard - Power Bi Project
+
 📌 Task Overview
 This project was completed as part of a Data Analyst Internship Task. The goal was to design an interactive dashboard using Tableau based on a retail sales dataset.
 
